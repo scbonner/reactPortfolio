@@ -1,6 +1,6 @@
 import React from 'react';
-import Landing from './Landing2';
-import './Landing.css';
+import Landing from './Landing/Landing.html';
+import Navbar from './Navbar';
 
 
 
