@@ -8,9 +8,20 @@ body {
 }
 
 
+nav .nav-wrapper {
+  max-width: 1000px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
+.container-fluid {
+  font-style: oblique;
+  font-size: 15px;
+  font-weight: bold;
+
+}
 #myCanvas{
   background: cover #ccc;
-
 
 }
 
@@ -124,7 +135,7 @@ a {
 }
 
 .button {
-    top:60%;
+    top: 40px;
 
 }
 
